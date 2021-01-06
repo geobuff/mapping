@@ -1,4 +1,4 @@
-package world
+package main
 
 // Country represents a countries mapping data.
 type Country struct {
