@@ -1,3 +1,3 @@
-module github.com/geobuff/location-mapping
+module github.com/geobuff/mapping
 
 go 1.15
