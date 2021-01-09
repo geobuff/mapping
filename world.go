@@ -1,16 +1,7 @@
 package mapping
 
-// Country represents a countries mapping data.
-type Country struct {
-	Name             string   `json:"name"`
-	Code             string   `json:"code"`
-	SVGName          string   `json:"svgName"`
-	AlternativeNames []string `json:"alternativeNames"`
-	Prefixes         []string `json:"prefixes"`
-}
-
 // Countries is a map of countries by continent.
-var Countries = map[string][]Country{
+var Countries = map[string][]Mapping{
 	"africa": {
 		{
 			Name:             "egypt",
@@ -1392,6 +1383,303 @@ var Countries = map[string][]Country{
 			Name:             "vanuatu",
 			Code:             "vu",
 			SVGName:          "Vanuatu",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+	},
+}
+
+// Capitals is a map of capitals by continent.
+var Capitals = map[string][]Mapping{
+	"africa": {
+		{
+			Name:             "luanda",
+			Code:             "ao",
+			SVGName:          "Luanda",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "ouagadougou",
+			Code:             "bf",
+			SVGName:          "Ouagadougou",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "gitega",
+			Code:             "bi",
+			SVGName:          "Gitega",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "porto-novo",
+			Code:             "bj",
+			SVGName:          "Porto-Novo",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "gaborone",
+			Code:             "bw",
+			SVGName:          "Gaborone",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "kinshasa",
+			Code:             "cd",
+			SVGName:          "Kinshasa",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "bangui",
+			Code:             "cf",
+			SVGName:          "Bangui",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "brazzaville",
+			Code:             "cg",
+			SVGName:          "Brazzaville",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "yamoussoukro",
+			Code:             "ci",
+			SVGName:          "Yamoussoukro",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "yaounde",
+			Code:             "cm",
+			SVGName:          "Yaounde",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+	},
+	"antarctica": {},
+	"asia": {
+		{
+			Name:             "abu dhabi",
+			Code:             "ae",
+			SVGName:          "Abu Dhabi",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "kabul",
+			Code:             "af",
+			SVGName:          "Kabul",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "yerevan",
+			Code:             "am",
+			SVGName:          "Yerevan",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "baku",
+			Code:             "az",
+			SVGName:          "Baku",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "dhaka",
+			Code:             "bd",
+			SVGName:          "Dhaka",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "manama",
+			Code:             "bh",
+			SVGName:          "Manama",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "bandar seri begawan",
+			Code:             "bn",
+			SVGName:          "Bandar Seri Begawan",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "thimphu",
+			Code:             "bt",
+			SVGName:          "Thimphu",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "beijing",
+			Code:             "cn",
+			SVGName:          "Beijing",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+	},
+	"europe": {
+		{
+			Name:             "andorra la vella",
+			Code:             "ad",
+			SVGName:          "Andorra la Vella",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "tirana",
+			Code:             "al",
+			SVGName:          "Tirana",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "vienna",
+			Code:             "at",
+			SVGName:          "Vienna",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "sarajevo",
+			Code:             "ba",
+			SVGName:          "Sarajevo",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "brussels",
+			Code:             "be",
+			SVGName:          "Brussels",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "sofia",
+			Code:             "bg",
+			SVGName:          "Sofia",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "minsk",
+			Code:             "by",
+			SVGName:          "Minsk",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "bern",
+			Code:             "ch",
+			SVGName:          "Bern",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+	},
+	"north america": {
+		{
+			Name:             "saint john's",
+			Code:             "ag",
+			SVGName:          "Saint John's",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "bridgetown",
+			Code:             "bb",
+			SVGName:          "Bridgetown",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "nassau",
+			Code:             "bs",
+			SVGName:          "Nassau",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "belmopan",
+			Code:             "bz",
+			SVGName:          "Belmopan",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "ottawa",
+			Code:             "ca",
+			SVGName:          "Ottawa",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "san jose",
+			Code:             "cr",
+			SVGName:          "San José",
+			AlternativeNames: []string{"san josé"},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "havana",
+			Code:             "cu",
+			SVGName:          "Havana",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+	},
+	"south america": {
+		{
+			Name:             "buenos aires",
+			Code:             "ar",
+			SVGName:          "Buenos Aires",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "la paz",
+			Code:             "bo",
+			SVGName:          "La Paz",
+			AlternativeNames: []string{"sucre"},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "brasilia",
+			Code:             "br",
+			SVGName:          "Brasilia",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "santiago",
+			Code:             "cl",
+			SVGName:          "Santiago",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "bogota",
+			Code:             "co",
+			SVGName:          "Bogota",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+	},
+	"oceania": {
+		{
+			Name:             "canberra",
+			Code:             "au",
+			SVGName:          "Canberra",
 			AlternativeNames: []string{},
 			Prefixes:         []string{},
 		},
