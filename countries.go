@@ -1,7 +1,7 @@
 package mapping
 
-// Countries is a map of countries by continent.
-var Countries = map[string][]Mapping{
+// WorldCountries is a map of countries by continent.
+var WorldCountries = map[string][]Mapping{
 	"africa": {
 		{
 			Name:             "algeria",

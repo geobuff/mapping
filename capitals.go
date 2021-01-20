@@ -1,7 +1,7 @@
 package mapping
 
-// Capitals is a map of capitals by continent.
-var Capitals = map[string][]Mapping{
+// WorldCapitals is a map of capitals by continent.
+var WorldCapitals = map[string][]Mapping{
 	"africa": {
 		{
 			Name:             "abuja",
