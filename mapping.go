@@ -7,4 +7,5 @@ type Mapping struct {
 	SVGName          string   `json:"svgName"`
 	AlternativeNames []string `json:"alternativeNames"`
 	Prefixes         []string `json:"prefixes"`
+	Group            string   `json:"group"`
 }
