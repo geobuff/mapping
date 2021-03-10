@@ -1,6 +1,7 @@
 package mapping
 
-var mappings = map[string][]Mapping{
+// Mappings is a map of quiz to available mappings.
+var Mappings = map[string][]Mapping{
 	"capitals": {
 		{
 			Name:             "abuja",
