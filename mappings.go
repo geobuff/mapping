@@ -3212,14 +3212,14 @@ var Mappings = map[string][]Mapping{
 			Name:             "cape verde",
 			Code:             "cv",
 			SVGName:          "Cape Verde",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"Cabo Verde"},
 			Prefixes:         []string{},
 		},
 		{
 			Name:             "central african republic",
 			Code:             "cf",
 			SVGName:          "Central African Republic",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"CAR"},
 			Prefixes:         []string{},
 		},
 		{
@@ -3240,7 +3240,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "democratic republic of the congo",
 			Code:             "cd",
 			SVGName:          "Democratic Republic of the Congo",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"DRC", "Democratic Republic of Congo"},
 			Prefixes:         []string{},
 		},
 		{
@@ -3310,14 +3310,14 @@ var Mappings = map[string][]Mapping{
 			Name:             "guinea-bissau",
 			Code:             "gw",
 			SVGName:          "Guinea-Bissau",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"Guinea Bissau"},
 			Prefixes:         []string{},
 		},
 		{
 			Name:             "ivory coast",
 			Code:             "ci",
 			SVGName:          "Ivory Coast",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"Cote d'ivoire", "Côte d'ivoire"},
 			Prefixes:         []string{},
 		},
 		{
@@ -3416,13 +3416,13 @@ var Mappings = map[string][]Mapping{
 			Code:             "ng",
 			SVGName:          "Nigeria",
 			AlternativeNames: []string{},
-			Prefixes:         []string{},
+			Prefixes:         []string{"niger"},
 		},
 		{
 			Name:             "republic of the congo",
 			Code:             "cg",
 			SVGName:          "Republic of the Congo",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"Republic of Congo"},
 			Prefixes:         []string{},
 		},
 		{
@@ -3436,7 +3436,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "sao tome and principe",
 			Code:             "st",
 			SVGName:          "Sao Tome and Principe",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"São Tomé and Príncipe"},
 			Prefixes:         []string{},
 		},
 		{
@@ -3492,7 +3492,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "eswatini",
 			Code:             "sz",
 			SVGName:          "Eswatini",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"Kingdom of Eswatini", "Swaziland"},
 			Prefixes:         []string{},
 		},
 		{
