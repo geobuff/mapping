@@ -3097,7 +3097,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "new zealand",
 			Code:             "nz",
 			SVGName:          "New Zealand",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"NZ"},
 			Prefixes:         []string{},
 			Group:            "oceania",
 		},
@@ -4510,7 +4510,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "federated states of micronesia",
 			Code:             "fm",
 			SVGName:          "Federated States of Micronesia",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"Micronesia"},
 			Prefixes:         []string{},
 		},
 		{
@@ -4552,7 +4552,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "new zealand",
 			Code:             "nz",
 			SVGName:          "New Zealand",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"NZ"},
 			Prefixes:         []string{},
 		},
 		{
