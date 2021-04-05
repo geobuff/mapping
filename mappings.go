@@ -4936,13 +4936,6 @@ var Mappings = map[string][]Mapping{
 			Prefixes:         []string{},
 		},
 		{
-			Name:             "washington, dc",
-			Code:             "us-dc",
-			SVGName:          "Washington, DC",
-			AlternativeNames: []string{},
-			Prefixes:         []string{},
-		},
-		{
 			Name:             "west virginia",
 			Code:             "us-wv",
 			SVGName:          "West Virginia",
