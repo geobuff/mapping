@@ -6063,7 +6063,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "baden-wurttemberg",
 			Code:             "de-bw",
 			SVGName:          "Baden-Wurttemberg",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"Baden-Württemberg"},
 			Prefixes:         []string{},
 		},
 		{
