@@ -5412,7 +5412,7 @@ var Mappings = map[string][]Mapping{
 		},
 		{
 			Name:             "muchinga",
-			Code:             "",
+			Code:             "zm-10",
 			SVGName:          "Muchinga",
 			AlternativeNames: []string{},
 			Prefixes:         []string{},
