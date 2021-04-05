@@ -5616,11 +5616,18 @@ var Mappings = map[string][]Mapping{
 			Prefixes:         []string{},
 		},
 	},
-	"australia-states": {
+	"australia-states-and-territories": {
 		{
 			Name:             "australian capital territory",
 			Code:             "au-act",
 			SVGName:          "Australian Capital Territory",
+			AlternativeNames: []string{},
+			Prefixes:         []string{},
+		},
+		{
+			Name:             "jervis bay territory",
+			Code:             "au-jbt",
+			SVGName:          "Jervis Bay Territory",
 			AlternativeNames: []string{},
 			Prefixes:         []string{},
 		},
