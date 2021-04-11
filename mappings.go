@@ -6976,7 +6976,7 @@ var Mappings = map[string][]Mapping{
 			Prefixes:         []string{},
 		},
 	},
-	"nigeria-provinces": {
+	"nigeria-states": {
 		{
 			Name:             "abia",
 			Code:             "ng-ab",
@@ -7079,7 +7079,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "federal capital territory",
 			Code:             "ng-fc",
 			SVGName:          "Federal Capital Territory",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"FCT"},
 			Prefixes:         []string{},
 		},
 		{
@@ -7153,9 +7153,9 @@ var Mappings = map[string][]Mapping{
 			Prefixes:         []string{},
 		},
 		{
-			Name:             "nassarawa",
+			Name:             "nasarawa",
 			Code:             "ng-na",
-			SVGName:          "Nassarawa",
+			SVGName:          "Nasarawa",
 			AlternativeNames: []string{},
 			Prefixes:         []string{},
 		},
