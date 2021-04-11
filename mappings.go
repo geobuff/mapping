@@ -6508,7 +6508,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "hyogo",
 			Code:             "jp-28",
 			SVGName:          "Hyogo",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"Hyōgo"},
 			Prefixes:         []string{},
 		},
 		{
@@ -6557,7 +6557,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "kochi",
 			Code:             "jp-39",
 			SVGName:          "Kochi",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"Kōchi"},
 			Prefixes:         []string{},
 		},
 		{
@@ -6627,7 +6627,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "oita",
 			Code:             "jp-44",
 			SVGName:          "Oita",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"Ōita"},
 			Prefixes:         []string{},
 		},
 		{
