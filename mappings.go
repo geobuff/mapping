@@ -638,7 +638,7 @@ var Mappings = map[string][]Mapping{
 		{
 			Name:             "male",
 			Code:             "mv",
-			SVGName:          "Malé",
+			SVGName:          "Male",
 			AlternativeNames: []string{"Malé"},
 			Prefixes:         []string{},
 			Group:            "asia",
@@ -1367,7 +1367,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "washington, d.c.",
 			Code:             "us",
 			SVGName:          "Washington, D.C.",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"Washington DC"},
 			Prefixes:         []string{},
 			Group:            "north america",
 		},
