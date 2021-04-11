@@ -7263,7 +7263,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "agri",
 			Code:             "tr-04",
 			SVGName:          "Agri",
-			AlternativeNames: []string{"Ağri"},
+			AlternativeNames: []string{"Ağrı"},
 			Prefixes:         []string{},
 		},
 		{
@@ -7487,7 +7487,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "hakkari",
 			Code:             "tr-30",
 			SVGName:          "Hakkari",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"Hakkâri"},
 			Prefixes:         []string{},
 		},
 		{
@@ -7501,7 +7501,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "igdir",
 			Code:             "tr-76",
 			SVGName:          "Igdir",
-			AlternativeNames: []string{"Iğdir"},
+			AlternativeNames: []string{"Iğdır"},
 			Prefixes:         []string{},
 		},
 		{
