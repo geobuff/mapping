@@ -6808,10 +6808,10 @@ var Mappings = map[string][]Mapping{
 			Prefixes:         []string{},
 		},
 		{
-			Name:             "distrito federal",
-			Code:             "mx-dif",
-			SVGName:          "Distrito Federal",
-			AlternativeNames: []string{},
+			Name:             "mexico city",
+			Code:             "mx-cmx",
+			SVGName:          "Mexico City",
+			AlternativeNames: []string{"Ciudad de México"},
 			Prefixes:         []string{},
 		},
 		{
