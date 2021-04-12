@@ -34,7 +34,7 @@ func main() {
 | South America, Countries | "south-america-countries" |
 | Oceania, Countries | "oceania-countries" |
 | Argentina, Provinces | "argentina-provinces" |
-| Australia, States | "australia-states" |
+| Australia, States and Territories | "australia-states-and-territories" |
 | Brazil, States | "brazil-states" |
 | Canada, Provinces and Territories | "canada-provinces-and-territories" |
 | France, Regions | "france-regions" |
@@ -42,10 +42,10 @@ func main() {
 | India, States and Union Territories | "india-states-and-union-territories" |
 | Japan, Prefectures | "japan-prefectures" |
 | Mexico, States | "mexico-states" |
-| New Zealand, Provinces | "new-zealand-provinces" |
-| Nigeria, Provinces | "nigeria-provinces" |
+| New Zealand, Regions | "new-zealand-regions" |
+| Nigeria, States | "nigeria-states" |
 | Turkey, Provinces | "turkey-provinces" |
-| Unites States of America, States | "us-states" |
-| United Kingdom, Counties | "uk-counties" |
+| US, States | "us-states" |
+| UK, Counties | "uk-counties" |
 | Uganda, Districts | "uganda-districts" |
 | Zambia, Provinces | "zambia-provinces" |
