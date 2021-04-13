@@ -7862,9 +7862,9 @@ var Mappings = map[string][]Mapping{
 			Prefixes:         []string{},
 		},
 		{
-			Name:             "kibale",
+			Name:             "kibaale",
 			Code:             "ug-407",
-			SVGName:          "Kibale",
+			SVGName:          "Kibaale",
 			AlternativeNames: []string{},
 			Prefixes:         []string{},
 		},
