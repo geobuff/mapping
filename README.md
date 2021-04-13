@@ -46,6 +46,5 @@ func main() {
 | Nigeria, States | "nigeria-states" |
 | Turkey, Provinces | "turkey-provinces" |
 | US, States | "us-states" |
-| UK, Counties | "uk-counties" |
 | Uganda, Districts | "uganda-districts" |
 | Zambia, Provinces | "zambia-provinces" |
