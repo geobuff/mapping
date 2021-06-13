@@ -4990,7 +4990,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "hawke's bay",
 			Code:             "nz-hkb",
 			SVGName:          "Hawke's Bay",
-			AlternativeNames: []string{"Te Matau-a-Māui"},
+			AlternativeNames: []string{"Hawkes Bay", "Te Matau-a-Māui"},
 			Prefixes:         []string{},
 		},
 		{
