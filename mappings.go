@@ -8597,7 +8597,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "balears",
 			Code:             "es-pm",
 			SVGName:          "Balears",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"Balearic Islands"},
 			Prefixes:         []string{},
 		},
 		{
@@ -8695,7 +8695,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "guipuzcoa",
 			Code:             "es-ss",
 			SVGName:          "Guipuzcoa",
-			AlternativeNames: []string{"Guipúzcoa"},
+			AlternativeNames: []string{"Guipúzcoa", "Gipuzkoa"},
 			Prefixes:         []string{},
 		},
 		{
@@ -8884,7 +8884,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "vizcaya",
 			Code:             "es-bi",
 			SVGName:          "Vizcaya",
-			AlternativeNames: []string{},
+			AlternativeNames: []string{"Biscay"},
 			Prefixes:         []string{},
 		},
 		{
