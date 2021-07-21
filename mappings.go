@@ -9323,10 +9323,10 @@ var Mappings = map[string][]Mapping{
 			Prefixes:         []string{},
 		},
 		{
-			Name:             "distrito capital de bogota",
+			Name:             "capital district",
 			Code:             "co-dc",
-			SVGName:          "Distrito Capital de Bogota",
-			AlternativeNames: []string{},
+			SVGName:          "Capital District",
+			AlternativeNames: []string{"Distrito Capital de Bogota", "Distrito Capital de Bogotá", "Bogota", "Bogotá"},
 			Prefixes:         []string{},
 		},
 		{
