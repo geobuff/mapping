@@ -9140,7 +9140,7 @@ var Mappings = map[string][]Mapping{
 			Name:             "trentino-south tyrol",
 			Code:             "it-32",
 			SVGName:          "Trentino-South Tyrol",
-			AlternativeNames: []string{"Trentino-Alto Adige"},
+			AlternativeNames: []string{"Trentino-Alto Adige", "South Tyrol"},
 			Prefixes:         []string{},
 		},
 		{
