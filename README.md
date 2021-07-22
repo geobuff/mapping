@@ -37,13 +37,20 @@ func main() {
 | Australia, States and Territories | "australia-states-and-territories" |
 | Brazil, States | "brazil-states" |
 | Canada, Provinces and Territories | "canada-provinces-and-territories" |
+| China, Administrative Divisions | "china-administrative-divisions" |
+| Colombia, Departments | "colombia-departments" |
 | France, Regions | "france-regions" |
 | Germany, States | "germany-states" |
 | India, States and Union Territories | "india-states-and-union-territories" |
+| Italy, Regions | "italy-regions" |
 | Japan, Prefectures | "japan-prefectures" |
 | Mexico, States | "mexico-states" |
 | New Zealand, Regions | "new-zealand-regions" |
 | Nigeria, States | "nigeria-states" |
+| Pakistan, Administrative Units | "pakistan-administrative-units" |
+| Russia, Federal Subjects | "russia-federal-subjects" |
+| South Korea, Provinces | "south-korea-provinces" |
+| Spain, Provinces | "spain-provinces" |
 | Turkey, Provinces | "turkey-provinces" |
 | US, States | "us-states" |
 | Uganda, Districts | "uganda-districts" |
